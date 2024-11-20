@@ -6,3 +6,11 @@ body {
   display: flex;
   justify-content: space-around;
 }
+
+#home-score {
+  text-align: center;
+}
+
+#guest-score {
+  text-align: center;
+}
