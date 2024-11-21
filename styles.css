@@ -3,7 +3,7 @@
   text-align: center;
   align-items: center;
   /* color: #EEEEEE; */
-  background-color: #1b244a;
+  background-color: #1b1d4a;
 }
 
 .main {
@@ -75,6 +75,7 @@ button {
   padding: 10px 10px 10px 10px;
   font-size: x-large;
   cursor: pointer;
+  box-shadow: 0 0 5px #9aabd8;
 }
 
 .score-btn {
