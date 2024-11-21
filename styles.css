@@ -39,7 +39,7 @@
 
 .score-area {
   font-family: "Cursed Timer ULiL", sans-serif;
-  color: #f94f6d;
+  color: #ff002f;
   font-weight: 400;
   font-size: 90px;
   background-color: #201d22;
@@ -52,6 +52,7 @@
   align-items: center;
   justify-content: center;
   margin-top: 40px;
+  box-shadow: 3px 3px 10px #201d22;
 }
 
 .highlight {
