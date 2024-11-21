@@ -3,7 +3,7 @@
   text-align: center;
   align-items: center;
   /* color: #EEEEEE; */
-  background-color: #1b1d4a;
+  background-color: #6b7280;
 }
 
 .main {
@@ -49,11 +49,7 @@
   align-items: center;
   justify-content: center;
   margin-top: 40px;
-  box-shadow: 3px 3px 10px #201d22;
-}
-
-.highlight {
-  box-shadow: 0px 0px 20px #aaff00;
+  box-shadow: 10px 10px 10px #2d2b2e;
 }
 
 .score-count {
@@ -68,14 +64,14 @@
 button {
   font-family: "Cursed Timer ULiL", sans-serif;
   background-color: none;
-  color: #9aabd8;
+  color: #201d22;
   margin-top: 20px;
-  border: 2px solid #9aabd8;
+  border: 2px solid #201d22;
   border-radius: 5px;
   padding: 10px 10px 10px 10px;
   font-size: x-large;
   cursor: pointer;
-  box-shadow: 0 0 5px #9aabd8;
+  box-shadow: 0 5px 10px #201d22;
 }
 
 .score-btn {

@@ -36,6 +36,7 @@ function add3Guest(){
     guestScore.textContent = currGuestScore
 }
 
+
 //adding the new game button funtion
 
 function newGame(){
